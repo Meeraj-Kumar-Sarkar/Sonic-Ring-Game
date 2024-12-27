@@ -5,7 +5,7 @@ Welcome to Sonic Runner Game! This is a simple runner game made in JavaScript wi
 ## Getting Started
 
 Start the game, through the following link:
-  https://meeraj-kumar-sarkar.github.io/Sonic-Runner-Game/
+  https://meeraj-kumar-sarkar.github.io/Sonic-Ring-Game/
 
 ## How to play
  1. To play the game you can either use space bar/ left click on mouse/ touch in smartphone. Sonic would jump in this response.
