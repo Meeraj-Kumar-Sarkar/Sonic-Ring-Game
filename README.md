@@ -1,4 +1,4 @@
-# Sonic Runner Game
+# Sonic Ring Game
 
 Welcome to Sonic Runner Game! This is a simple runner game made in JavaScript with the Kaplay game library.
 
